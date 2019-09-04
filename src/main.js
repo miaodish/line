@@ -7,4 +7,3 @@ App.mpType = 'app'
 const app = new Vue(App)
 app.$mount()
 wx.cloud.init()
-export const db = wx.cloud.database({ env: 'datebase-9y50j'})

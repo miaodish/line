@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './login'
+import App from './logup'
 
 // add this to handle exception
 

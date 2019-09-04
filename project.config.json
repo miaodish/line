@@ -23,7 +23,6 @@
 	"appid": "wx21195c54e09e3d89",
 	"projectname": "line",
 	"simulatorType": "wechat",
-	"cloudfunctionRoot": "static/functions/",
 	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
