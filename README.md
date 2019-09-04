@@ -13,7 +13,7 @@ cd myproject
 yarn
 
 # 开发时构建
-npm dev
+yarn dev
 
 # 打包构建
 npm build
